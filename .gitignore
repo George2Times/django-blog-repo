@@ -1,0 +1,53 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Database Files
+*.sqlite3
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Log Files
+*.log
+
+# Django Migrations
+migrations/
+
+# Static and Media Files
+staticfiles/
+media/
+
+# Django Compiled Translations
+*.mo
+
+# Django Secret Key Files
+secrets.json
+
+# Python Packages
+*.egg-info/
+.eggs/
+
+# Coverage Reports
+htmlcov/
+.coverage
+*.cover
+
+# Pytest Cache
+.pytest_cache/
+
+# Build and Distribution
+build/
+dist/
+*.egg
